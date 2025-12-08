@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NutriLog AI",
+  "description": "一个基于AI的智能营养和健康追踪器，解析自然语言日常日志以计算宏量营养素、热量并预测体重变化。",
+  "requestFramePermissions": []
+}
